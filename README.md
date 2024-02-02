@@ -22,12 +22,12 @@ npm start
 
 ### 📌 Funcionalidades
 
--[X] Cadastro, Login e Logout de Usuário
--[X] Autenticação com Token
--[X] Cadastro e exclusão de postagem
--[X] Listagem de cards de gatos
--[X] Permitir curtir e comentar nas fotos
--[X] Permissão de comentar ou não uma postagem.
+- [x] Cadastro, Login e Logout de Usuário
+- [x] Autenticação com Token
+- [x] Cadastro e exclusão de postagem
+- [x] Listagem de cards de gatos
+- [x] Permitir curtir e comentar nas fotos
+- [x] Permissão de comentar ou não uma postagem.
 
 ### ⌨️ Tecnologias
 
